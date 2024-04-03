@@ -167,7 +167,9 @@ int main() {
 
 ```
 # OUTPUT
-![Screenshot 2024-03-27 093130](https://github.com/Akshayasakthivels/Ex-3-GENERATION-OF-LEXICAL-TOKENS-/assets/144870561/10a3c7df-a65f-4c7c-b0f9-006f9f297bfd)
+
+![image 1](https://github.com/sreekarsh/Ex-3-GENERATION-OF-LEXICAL-TOKENS-/assets/139841918/0b4d8106-740c-40d8-8852-a26e10b1575f)
+
 
 # RESULT
 ### The program to implement lexical analyzer is executed and the output is verified.
